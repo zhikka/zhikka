@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhikka
 - 🎓 I study IT in Slemani Polytechnic University
-- 👩‍💻Currently working on PHP, C#, JS, LUA and Web Design
+- 👩‍💻Currently working on Laravel, PHP, C#, JS, LUA and Web Design
 - 📫 zhilarzgar0@gmail.com
 
 <!---
